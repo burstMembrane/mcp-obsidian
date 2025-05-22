@@ -15,3 +15,5 @@ mcp-obsidian.md
 
 # Added by ob
 .ob
+*.db
+*.db/
