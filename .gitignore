@@ -9,3 +9,9 @@ wheels/
 # Virtual environments
 .venv
 .env
+
+# Added by ob
+mcp-obsidian.md
+
+# Added by ob
+.ob
